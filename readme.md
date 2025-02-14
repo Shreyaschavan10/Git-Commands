@@ -7,8 +7,8 @@
 4. git init
 5. git add .
 6. git status -s
-7. git commit -m "<commit message>"
+7. git commit -m "<commit_message>"
 8. git remote add origin <url>
 9. git push-u origin master
-10. git clone <clone>
+10. -git clone <clone>
 
